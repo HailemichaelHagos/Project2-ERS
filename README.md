@@ -40,9 +40,9 @@
 ###### Junit with Mockito for service in backend 
 ###### Jasmine/Karma for component testing 
 ######	Devops - CI/CD using Jenkins
-######	front end should be deployed in s3 using Jenkins
-######	backend should be dockerized and deployed in EC2 using Jenkins 
-######	DB - either go for dockerized Postgres in ec2 or RDS (aws) 
+######	front end deployed in s3 using Jenkins
+######	backend dockerized and deployed in EC2 using Jenkins 
+######	DB -  dockerized Postgres in ec2 
 ######	reports (screen shots) 
 
 
