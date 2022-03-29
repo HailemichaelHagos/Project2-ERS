@@ -37,7 +37,7 @@
 
 ### Additional Tasks
 ######	upload a proof(image) of the reimbursement - Multipart File 
-######Junit with Mockito for service in backend 
+###### Junit with Mockito for service in backend 
 ###### Jasmine/Karma for component testing 
 ######	Devops - CI/CD using Jenkins
 ######	front end should be deployed in s3 using Jenkins
